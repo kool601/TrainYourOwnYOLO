@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fb89ffcfa14700d0545798b0de3bc6cf",
+        "name": "owolouis%20(36).jpg",
+        "path": "file:C:/Users/coolj/TrainYourOwnYOLO/Data/Source_Images/Training_Images/owolouis%20(36).jpg",
+        "size": {
+            "width": 1024,
+            "height": 569
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "EvAgLBq8j",
+            "type": "RECTANGLE",
+            "tags": [
+                "Louis_Face"
+            ],
+            "boundingBox": {
+                "height": 283.7940446650124,
+                "width": 446.7208821502412,
+                "left": 59.28049620951068,
+                "top": 71.40076380272953
+            },
+            "points": [
+                {
+                    "x": 59.28049620951068,
+                    "y": 71.40076380272953
+                },
+                {
+                    "x": 506.00137835975187,
+                    "y": 71.40076380272953
+                },
+                {
+                    "x": 506.00137835975187,
+                    "y": 355.1948084677419
+                },
+                {
+                    "x": 59.28049620951068,
+                    "y": 355.1948084677419
+                }
+            ]
+        },
+        {
+            "id": "dp0A5OGgp",
+            "type": "RECTANGLE",
+            "tags": [
+                "Legosi_Face"
+            ],
+            "boundingBox": {
+                "height": 486.5025007754342,
+                "width": 474.24396967608544,
+                "left": 549.7560303239145,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 549.7560303239145,
+                    "y": 0
+                },
+                {
+                    "x": 1024,
+                    "y": 0
+                },
+                {
+                    "x": 1024,
+                    "y": 486.5025007754342
+                },
+                {
+                    "x": 549.7560303239145,
+                    "y": 486.5025007754342
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

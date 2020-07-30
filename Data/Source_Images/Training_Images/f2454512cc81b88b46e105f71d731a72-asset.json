@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f2454512cc81b88b46e105f71d731a72",
+        "name": "owolouis%20(46).jpg",
+        "path": "file:C:/Users/coolj/TrainYourOwnYOLO/Data/Source_Images/Training_Images/owolouis%20(46).jpg",
+        "size": {
+            "width": 480,
+            "height": 360
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "MBa7fU3ib",
+            "type": "RECTANGLE",
+            "tags": [
+                "Louis_Face"
+            ],
+            "boundingBox": {
+                "height": 194.41558441558442,
+                "width": 210.3896103896104,
+                "left": 108.50649350649351,
+                "top": 45.1948051948052
+            },
+            "points": [
+                {
+                    "x": 108.50649350649351,
+                    "y": 45.1948051948052
+                },
+                {
+                    "x": 318.8961038961039,
+                    "y": 45.1948051948052
+                },
+                {
+                    "x": 318.8961038961039,
+                    "y": 239.61038961038963
+                },
+                {
+                    "x": 108.50649350649351,
+                    "y": 239.61038961038963
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

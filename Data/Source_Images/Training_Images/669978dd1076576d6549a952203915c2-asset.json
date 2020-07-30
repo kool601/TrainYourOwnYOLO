@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "669978dd1076576d6549a952203915c2",
+        "name": "owojack%20(6).jpg",
+        "path": "file:C:/Users/coolj/TrainYourOwnYOLO/Data/Source_Images/Training_Images/owojack%20(6).jpg",
+        "size": {
+            "width": 640,
+            "height": 360
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "dkDpXltCB",
+            "type": "RECTANGLE",
+            "tags": [
+                "Jack_Face"
+            ],
+            "boundingBox": {
+                "height": 187.9411764705882,
+                "width": 238.18056512749828,
+                "left": 321.98483804272917,
+                "top": 37.5
+            },
+            "points": [
+                {
+                    "x": 321.98483804272917,
+                    "y": 37.5
+                },
+                {
+                    "x": 560.1654031702275,
+                    "y": 37.5
+                },
+                {
+                    "x": 560.1654031702275,
+                    "y": 225.4411764705882
+                },
+                {
+                    "x": 321.98483804272917,
+                    "y": 225.4411764705882
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

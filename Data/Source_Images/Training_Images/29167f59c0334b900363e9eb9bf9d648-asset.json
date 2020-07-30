@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "JPG",
+        "id": "29167f59c0334b900363e9eb9bf9d648",
+        "name": "owolegosi%20(45).JPG",
+        "path": "file:C:/Users/coolj/TrainYourOwnYOLO/Data/Source_Images/Training_Images/owolegosi%20(45).JPG",
+        "size": {
+            "width": 929,
+            "height": 525
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "HzFHD_Ohr",
+            "type": "RECTANGLE",
+            "tags": [
+                "Legosi_Face"
+            ],
+            "boundingBox": {
+                "height": 245.21341463414635,
+                "width": 204.87939352170915,
+                "left": 459.6981392143349,
+                "top": 8.963414634146341
+            },
+            "points": [
+                {
+                    "x": 459.6981392143349,
+                    "y": 8.963414634146341
+                },
+                {
+                    "x": 664.5775327360441,
+                    "y": 8.963414634146341
+                },
+                {
+                    "x": 664.5775327360441,
+                    "y": 254.1768292682927
+                },
+                {
+                    "x": 459.6981392143349,
+                    "y": 254.1768292682927
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

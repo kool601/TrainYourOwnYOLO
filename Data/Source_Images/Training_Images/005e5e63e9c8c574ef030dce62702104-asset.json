@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "005e5e63e9c8c574ef030dce62702104",
+        "name": "owojack%20(9).png",
+        "path": "file:C:/Users/coolj/TrainYourOwnYOLO/Data/Source_Images/Training_Images/owojack%20(9).png",
+        "size": {
+            "width": 640,
+            "height": 407
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "35WFyB5iw",
+            "type": "RECTANGLE",
+            "tags": [
+                "Legosi_Face"
+            ],
+            "boundingBox": {
+                "height": 64.8201516793066,
+                "width": 89.5382494831151,
+                "left": 78.51137146795314,
+                "top": 113.49038461538461
+            },
+            "points": [
+                {
+                    "x": 78.51137146795314,
+                    "y": 113.49038461538461
+                },
+                {
+                    "x": 168.04962095106822,
+                    "y": 113.49038461538461
+                },
+                {
+                    "x": 168.04962095106822,
+                    "y": 178.31053629469122
+                },
+                {
+                    "x": 78.51137146795314,
+                    "y": 178.31053629469122
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

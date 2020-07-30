@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "gif",
+        "id": "badadef15d34c65ba24bd4d1d9f4ceaf",
+        "name": "owolegosi%20(7).gif",
+        "path": "file:C:/Users/coolj/TrainYourOwnYOLO/Data/Source_Images/Training_Images/owolegosi%20(7).gif",
+        "size": {
+            "width": 498,
+            "height": 498
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "i_MUbow28",
+            "type": "RECTANGLE",
+            "tags": [
+                "Legosi_Face"
+            ],
+            "boundingBox": {
+                "height": 378.8896103896104,
+                "width": 368.64935064935065,
+                "left": 92.97077922077922,
+                "top": 53.35714285714286
+            },
+            "points": [
+                {
+                    "x": 92.97077922077922,
+                    "y": 53.35714285714286
+                },
+                {
+                    "x": 461.62012987012986,
+                    "y": 53.35714285714286
+                },
+                {
+                    "x": 461.62012987012986,
+                    "y": 432.24675324675326
+                },
+                {
+                    "x": 92.97077922077922,
+                    "y": 432.24675324675326
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

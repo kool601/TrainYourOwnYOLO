@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "685d65d3c20b65cae5f0f315406d2afd",
+        "name": "owojack%20(20).jpg",
+        "path": "file:C:/Users/coolj/TrainYourOwnYOLO/Data/Source_Images/Training_Images/owojack%20(20).jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "WHs8UVzdb",
+            "type": "RECTANGLE",
+            "tags": [
+                "Jack_Face"
+            ],
+            "boundingBox": {
+                "height": 335.29411764705884,
+                "width": 396.0854583046176,
+                "left": 622.7980702963473,
+                "top": 7.141544117647059
+            },
+            "points": [
+                {
+                    "x": 622.7980702963473,
+                    "y": 7.141544117647059
+                },
+                {
+                    "x": 1018.8835286009648,
+                    "y": 7.141544117647059
+                },
+                {
+                    "x": 1018.8835286009648,
+                    "y": 342.43566176470586
+                },
+                {
+                    "x": 622.7980702963473,
+                    "y": 342.43566176470586
+                }
+            ]
+        },
+        {
+            "id": "6U2JzqTAp",
+            "type": "RECTANGLE",
+            "tags": [
+                "Legosi_Face"
+            ],
+            "boundingBox": {
+                "height": 427.1415441176471,
+                "width": 479.0075809786354,
+                "left": 0,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 479.0075809786354,
+                    "y": 0
+                },
+                {
+                    "x": 479.0075809786354,
+                    "y": 427.1415441176471
+                },
+                {
+                    "x": 0,
+                    "y": 427.1415441176471
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
